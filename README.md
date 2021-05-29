@@ -66,3 +66,4 @@
 
 [instagram]: https://instagram.com/marz_zz
 [linkedin]: https://linkedin.com/in/marzookh
+[webdevplaylist]: https://www.youtube.com/playlist?list=PLkwxH9e_vrAJ0WbEsFA9W3I1W-g_BTsbt
