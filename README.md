@@ -1,10 +1,10 @@
 ### Hi there, I'm Marzookh  👋
 
-## I'm in my third year at the Unversity of Alberta doing my Bachelors in Computing Science 
+## I'm in my fourth year at the Unversity of Alberta doing my Bachelors in Computing Science 
 
-- 👀 I’m interested in Machine Learning and Data Visualization
-- 🌱 I’m currently learning Android App development and Javascript
-- 👯 I’m looking to collaborate on Data Science projects
+- 👀 I’m interested in Machine Learning and QA Automation
+- 🌱 I’m currently learning Web Application development
+- 👯 I’m looking for Summer 2023 Internships!
 - 📫 You can reach me at farook@ualberta.ca	
 
 ### Spotify Playing 🎧
